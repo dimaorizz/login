@@ -2,7 +2,7 @@
 Registration form using Node js (express + mongoose)
 
 # Dependencies
--Mongoose
+-Mongoose\n
 -Express
 -body-parser
 
